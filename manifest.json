@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "com.andrewkingdev.ludotoken": "file:../../ludotoken"
+  }
+}
