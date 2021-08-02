@@ -1,0 +1,11 @@
+{
+  "name": "LudoToken",
+  "displayName": "LudoToken",
+  "version": "0.1",
+  "unity": "2018.3",
+  "description": "LudoToken API class and methods",
+  "keywords": [ "Ludotoken", "cardano" ],
+  "category": "none",
+  "dependencies": {
+  }
+}
