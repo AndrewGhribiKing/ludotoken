@@ -60,6 +60,10 @@ public class tokendata : MonoBehaviour
         {
             processJsonData(localDataFile.text);
         }
+        else
+        {
+        // call ludoToken API (removed for now)
+        }
     }
 
     // convert Json to a string and parse into MyTokenList
